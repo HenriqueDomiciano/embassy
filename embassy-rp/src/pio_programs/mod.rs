@@ -13,3 +13,4 @@ pub mod step_dir;
 pub mod stepper;
 pub mod uart;
 pub mod ws2812;
+pub mod i2c;
